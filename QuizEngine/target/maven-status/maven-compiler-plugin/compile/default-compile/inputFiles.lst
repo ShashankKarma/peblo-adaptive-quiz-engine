@@ -1,0 +1,17 @@
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/QuizEngineApplication.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/controller/IngestController.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/controller/QuizController.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/dto/ApiResponse.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/dto/Error.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/model/Chunk.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/model/Document.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/model/Question.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/model/StudentAnswer.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/repository/ChunkRepo.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/repository/QuestionRepository.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/repository/StudentAnswerRepository.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/service/AIservice.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/service/ChunkService.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/service/QuizService.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/utility/Exceptionhandler.java
+/home/shashank-karma/Documents/DemoProject/QuizEngine/src/main/java/com/peblo/QuizEngine/utility/PdfExtractor.java
